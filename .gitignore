@@ -27,8 +27,6 @@ proguard/
 *.log
 *.epoch
 *.lck
-/out/production/
-*/out/production/
 
 atomikos-*/
 
@@ -46,5 +44,3 @@ checkout.cmd
 
 /**/out/
 /**/testdata/
-dangjian-zuul/Dockerfile
-code-generator.properties
